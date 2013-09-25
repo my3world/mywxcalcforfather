@@ -1,0 +1,4 @@
+mywxcalcforfather
+=================
+
+a calc
